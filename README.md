@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsharma200478&show_icons=true&theme=tokyonight" alt="Yash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsharma200478&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
